@@ -32,7 +32,7 @@ git clone https://github.com/SachinManral/sih25-demo.git
 cd civic-eye
 ```
 2. Install dependencies:
-3. 
+
 ```bash
 npm install
 ```
