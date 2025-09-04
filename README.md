@@ -1,12 +1,45 @@
-# React + Vite
+# Nagarnighrani
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NagarNighrani is a simple web application to report civic issues and view them on a map. It helps citizens submit complaints and municipalities track them efficiently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Report civic issues with description and location
+- View reported issues on an interactive map
+- Generate simple reports
+- Responsive design for desktop and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+- React + Vite
+- Tailwind CSS
+- React Router
+- Leaflet for maps
+- Recharts for charts
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/SachinManral/sih25-demo.git
+cd civic-eye
+```
+2. Install dependencies:
+3. 
+```bash
+npm install
+```
+3. Start the development server:
+   
+```bash
+npm run dev
+```
+
+Open http://localhost:5173 to view the app.
