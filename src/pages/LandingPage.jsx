@@ -75,7 +75,7 @@ export default function LandingPage() {
       <main className="flex-1 container mx-auto px-6 py-16 grid md:grid-cols-2 gap-12 items-center relative z-10">
         <div>
           <h1 className="text-5xl md:text-6xl font-extrabold leading-tight text-slate-900">
-            NagarNighrani
+            NagarNigrani
             <span className="block w-20 h-1 bg-sky-500 mt-2 rounded-full animate-pulse"></span>
           </h1>
           <p className="mt-4 text-lg text-slate-700 max-w-xl">

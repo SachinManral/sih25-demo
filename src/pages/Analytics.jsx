@@ -63,7 +63,7 @@ export default function AnalyticsDashboard() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-sky-50 to-slate-50 py-12 px-6">
-      <h1 className="text-4xl font-extrabold text-center text-slate-900 mb-12">NagarNighrani Analytics Dashboard</h1>
+      <h1 className="text-4xl font-extrabold text-center text-slate-900 mb-12">NagarNigrani Analytics Dashboard</h1>
 
       {/* Stat Cards */}
       <div className="grid grid-cols-1 md:grid-cols-4 gap-6 max-w-7xl mx-auto mb-12">

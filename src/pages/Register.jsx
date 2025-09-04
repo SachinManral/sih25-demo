@@ -53,7 +53,7 @@ export default function Register() {
                     <h2 className="text-3xl font-bold mb-2">
                       <span className="text-orange-500">Create</span>{" "}
                       <span className="text-black">your</span>{" "}
-                      <span className="text-green-600">NagarNighrani</span>{" "}
+                      <span className="text-green-600">NagarNigrani</span>{" "}
                       <span className="text-orange-500">account</span>
                     </h2>
                     <p className="text-md text-gray-500">

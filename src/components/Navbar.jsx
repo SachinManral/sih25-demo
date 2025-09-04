@@ -13,7 +13,7 @@ export default function Navbar() {
             NN
           </div>
           <div>
-            <h1 className="text-lg font-bold text-slate-800">NagarNighrani</h1>
+            <h1 className="text-lg font-bold text-slate-800">NagarNigrani</h1>
             <p className="text-xs text-slate-500 -mt-1">
               Report · Track · Resolve
             </p>

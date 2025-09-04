@@ -12,7 +12,7 @@ export default function Footer() {
       <div className="relative z-10 container mx-auto px-6 py-12 grid md:grid-cols-4 gap-8">
         {/* Branding / About */}
         <div className="col-span-1">
-          <h2 className="text-2xl font-bold text-white mb-3">NagarNighrani</h2>
+          <h2 className="text-2xl font-bold text-white mb-3">NagarNigrani</h2>
           <p className="text-sm text-slate-300">
             Empowering citizens to report civic issues and track progress for a better city.
           </p>
@@ -40,7 +40,7 @@ export default function Footer() {
               <Phone className="w-4 h-4" /> +91 9876543210
             </li>
             <li className="flex items-center gap-2">
-              <Mail className="w-4 h-4" /> support@nagar-nighrani.com
+              <Mail className="w-4 h-4" /> support@nagar-nigrani.com
             </li>
           </ul>
         </div>
@@ -74,7 +74,7 @@ export default function Footer() {
 
       {/* Bottom copyright */}
       <div className="mt-12 border-t border-slate-700 pt-4 text-center text-sm text-slate-400">
-        © {new Date().getFullYear()} NagarNighrani — Demo. All rights reserved.
+        © {new Date().getFullYear()} NagarNigrani — Demo. All rights reserved.
       </div>
     </footer>
   );

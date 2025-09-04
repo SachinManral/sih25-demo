@@ -55,7 +55,7 @@ export default function Login() {
                   {/* Heading */}
                   <div className="mb-8">
                     <h2 className="text-3xl font-bold text-gray-900 mb-2">
-                      Welcome back to <span className="text-orange-600 text-3xl">NagarNighrani</span> 👋
+                      Welcome back to <span className="text-orange-600 text-3xl">NagarNigrani</span> 👋
                     </h2>
                     <p className="text-md text-gray-600">
                       Sign in to report and track civic issues.
